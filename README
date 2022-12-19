@@ -1,0 +1,41 @@
+page_type: sample
+urlFragment: word-add-in-commands
+products:
+  - office-add-ins
+  - office-word
+  - office
+  - office-365
+languages:
+  - javascript
+extensions:
+  contentType: samples
+  technologies:
+    - Add-ins
+  createdDate: '12/09/2021 10:00:00 AM'
+description: 'Create an Word add-in with command buttons.'
+---
+
+# Create an Word add-in with command buttons
+
+## Summary
+
+Learn how to build an Office Add-in that has a command button to show the task pane, and a menu dropdown button that can show the task pane, or get data.
+
+![Screen shot of Word showing ribbon with Home tab selected and two buttons for the sample that show the task pane or show a dropdown menu](../images/word-ribbon-buttons.png)
+
+## Features
+
+- A button in the ribbon that shows the task pane.
+- A dropdown button in the ribbon with two menu commands.
+
+## Applies to
+
+- Word on Windows, Mac, and in a browser.
+
+## Prerequisites
+
+- Microsoft 365 - Get a [free developer sandbox](https://developer.microsoft.com/microsoft-365/dev-program#Subscription) that provides a renewable 90-day Microsoft 365 E5 developer subscription.
+
+## Run the sample on Word on the web
+
+This sample is hosted directly from this GitHub repo. Use the following steps to sideload the manifest.xml file to see the sample run.
